@@ -1,0 +1,15 @@
+[
+	{ "s": "IE", "p": [1] },
+	{ "s": "IE-GA1-220501046-AA2-EV0", "p": [1] },
+	{ "s": "ILUSTRACIÓN", "p": [11] },
+	{ "s": "IMAGEN", "p": [12, 11, 5] },
+	{ "s": "IMÁGENES", "p": [12, 11] },
+	{ "s": "INCIALES", "p": [3] },
+	{ "s": "INICIAL", "p": [11] },
+	{ "s": "INICIO", "p": [13, 11, 6] },
+	{ "s": "INSERTAR", "p": [12, 11, 5] },
+	{ "s": "INSTANTE", "p": [11] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTERLINEADO", "p": [13] },
+	{ "s": "IR", "p": [13, 7, 12, 11, 4, 3] }
+]

@@ -1,0 +1,12 @@
+[
+	{ "s": "HACE", "p": [13, 12, 11] },
+	{ "s": "HACER", "p": [11, 5, 13, 12] },
+	{ "s": "HACIENDO", "p": [13] },
+	{ "s": "HASTA", "p": [8, 7] },
+	{ "s": "HAY", "p": [3] },
+	{ "s": "HERNANDEZ_OK", "p": [11] },
+	{ "s": "HERNÁNDEZ", "p": [11] },
+	{ "s": "HERRAMIENTA", "p": [5] },
+	{ "s": "HERRAMIENTAS", "p": [5, 1] },
+	{ "s": "HOJA", "p": [4] }
+]

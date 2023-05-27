@@ -1,0 +1,12 @@
+[
+	{ "s": "REALIZA", "p": [6, 5, 3] },
+	{ "s": "REALIZAR", "p": [5, 4] },
+	{ "s": "REALIZÓ", "p": [13] },
+	{ "s": "RECUADRO", "p": [12, 11] },
+	{ "s": "RENGLONES", "p": [6] },
+	{ "s": "REPITE", "p": [13, 8] },
+	{ "s": "RIVERA", "p": [1] },
+	{ "s": "RODRÍGUEZ", "p": [1] },
+	{ "s": "ROJO", "p": [7] },
+	{ "s": "RUTA", "p": [5] }
+]
