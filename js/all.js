@@ -1184,10 +1184,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["IE-GA1-220501046-AA2-EV01","1. IE-GA1-220501046-AA2-EV0","2. Trabajo final","3. Pasos inciales","4. Crear 2 Columnas","5. Crear 3 columnas","6. Insertar foto del autor.","7. Dar formato a todo el texto.","3.1. Configurar las márgenes de la hoja","3.2. Realizar encabezado y pie de página","3.3. Numeración y viñetas.","5.1. Subrayado y alinear a la derecha.","5.2. Justificar","6.1. Insertar imagen en las tres columnas."],
-    DREX_NODE_LINKS: ["ie_ga1_220501046_aa2_ev01.htm","ie_ga1_220501046_aa2_ev0.htm","trabajo_final.htm","pasos_inciales.htm","crear_2_columnas.htm","crear_3_columnas.htm","insertar_foto_del_autor_.htm","dar_formato_a_todo_el_texto_.htm","configurar_las_margenes_de_la_hoja.htm","realizar_encabezado_y_pie_de_pagina.htm","numeracion_y_vinetas_.htm","subrayado_y_alinear_a_la_derecha_.htm","justificar.htm","insertar_imagen_en_las_tres_columnas_.htm"],
-    DREX_NODE_CHILD_START: [1,8,8,8,11,11,13,14,14,14,14,14,14,14],
-    DREX_NODE_CHILD_END: [8,8,8,11,11,13,14,14,14,14,14,14,14,14],
+    DREX_NODE_NAMES: ["Página principal","1. Trabajo final","2. Pasos inciales","3. Crear 2 Columnas","4. Crear 3 columnas","5. Insertar foto del autor.","6. Dar formato a todo el texto.","2.1. Configurar las márgenes de la hoja","2.2. Realizar encabezado y pie de página","2.3. Numeración y viñetas.","4.1. Subrayado y alinear a la derecha.","4.2. Justificar","5.1. Insertar imagen en las tres columnas."],
+    DREX_NODE_LINKS: ["index.htm","trabajo_final.htm","pasos_inciales.htm","crear_2_columnas.htm","crear_3_columnas.htm","insertar_foto_del_autor_.htm","dar_formato_a_todo_el_texto_.htm","configurar_las_margenes_de_la_hoja.htm","realizar_encabezado_y_pie_de_pagina.htm","numeracion_y_vinetas_.htm","subrayado_y_alinear_a_la_derecha_.htm","justificar.htm","insertar_imagen_en_las_tres_columnas_.htm"],
+    DREX_NODE_CHILD_START: [1,7,7,10,10,12,13,13,13,13,13,13,13],
+    DREX_NODE_CHILD_END: [7,7,10,10,12,13,13,13,13,13,13,13,13],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 

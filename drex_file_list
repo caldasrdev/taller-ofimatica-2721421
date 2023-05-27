@@ -36,12 +36,10 @@ de_search\0xu0033.json
 de_search\0xu0032.json
 de_search\0xu0031.json
 de_search\0xu0030.json
-de_search
 js\drexplain.data.index.js
 de_style.css
 webfonts\fa-solid-900.woff2
 webfonts\fa-solid-900.ttf
-webfonts
 css\printed.css
 css\all.css
 js\tooltips.js
@@ -56,7 +54,6 @@ i\photoswipe\default-skin.png
 i\photoswipe\grabbing.cur
 i\photoswipe\grab.cur
 i\photoswipe\zoom_in.cur
-i\photoswipe
 i\blocks\tree\sprite.png
 i\blocks\interface-icons\delicious_logo.png
 i\blocks\interface-icons\digg-button.png
@@ -64,11 +61,6 @@ i\blocks\search\loading.gif
 i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
-i\blocks\tree
-i\blocks\search
-i\blocks\interface-icons
-i\blocks
-i
 drex_dar_formato_a_todo_el_texto__custom_9.png
 drex_dar_formato_a_todo_el_texto__custom_8.png
 drex_dar_formato_a_todo_el_texto__custom_7.png
@@ -143,7 +135,6 @@ pasos_inciales.htm
 drex_trabajo_final_custom.png
 trabajo_final.htm
 drex_header_custom.png
-ie_ga1_220501046_aa2_ev0.htm
-css
-js
+drex_index_custom.png
+index.htm
 drex_file_list

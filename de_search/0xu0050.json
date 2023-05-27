@@ -24,9 +24,10 @@
 	{ "s": "PRIMERA", "p": [12, 11, 5] },
 	{ "s": "PRIMERAS", "p": [6] },
 	{ "s": "PRIMERO", "p": [13, 7, 6] },
+	{ "s": "PRINCIPAL", "p": [1] },
 	{ "s": "PROCEDIMIENTO", "p": [13] },
 	{ "s": "PUEDE", "p": [11] },
-	{ "s": "PÁGINA", "p": [5, 7, 4] },
+	{ "s": "PÁGINA", "p": [5, 1, 7, 4] },
 	{ "s": "PÁRRAFO", "p": [13, 12, 10, 6] },
 	{ "s": "PÁRRAFOS", "p": [13] }
 ]
